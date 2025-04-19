@@ -7,7 +7,7 @@ This repository contains demonstrations of three modern web development framewor
 
 ## Group Members
 - OLIVIA NGUNI- 2021460380
-- [Your Name]
+- SUWILANJI CHELLAH - 2021531309
 
 ## Completed Features
 
